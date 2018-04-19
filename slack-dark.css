@@ -849,7 +849,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message__body--tombstone { color: #949494; }
 
-.c-message__body .c-mrkdwn__mention, .c-message__body .c-mrkdwn__broadcast--mention { color: #949494; }
+.c-message__body .c-mrkdwn__mention, .c-message__body .c-mrkdwn__broadcast--mention { background: #f4d849; color: #949494; }
 
 .c-message__label { color: #949494; }
 
